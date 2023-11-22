@@ -27,3 +27,5 @@ function bannerSlide() {
     imageSlider.src = images[i]
 }
 setInterval(bannerSlide, 1000)
+
+console.log("Cobain pull request")
